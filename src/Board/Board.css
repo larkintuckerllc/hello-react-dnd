@@ -24,7 +24,6 @@
   margin: 5px;
   width: 100px;
   height: 100px;
-  background-color: black;
 }
 .board__targets__target--circle {
   border-radius: 50%;
@@ -51,7 +50,7 @@
   margin: 5px;
   width: 20px;
   height: 20px;
-  background-color: black;
+  background-color: gray;
 }
 .board__drops__drop__target--circle {
   display: inline-block;
